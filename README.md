@@ -1,0 +1,2 @@
+# ghr
+Git hooks runner
